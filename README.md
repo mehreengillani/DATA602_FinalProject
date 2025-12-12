@@ -5,8 +5,9 @@ Airbnb Data Cleaning & Analysis Project
 Comprehensive cleaning and analysis of 86,186 Airbnb listings to build accurate price prediction models, uncovering key pricing drivers and optimal modeling strategies.
 
 ✅ Key Tasks Performed:
-Data cleaning and visualization in AirBnB_DataCleaning.ipynp
-linear and other models implementations in LB_AirBnB.ipynp 
+* Data cleaning and visualization in AirBnB_DataCleaning.ipynp
+  
+* Multiple Linear regression and other models implementations in LB_AirBnB.ipynp 
 
 1. Data Cleaning & Preparation
 
